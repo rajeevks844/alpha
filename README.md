@@ -1,4 +1,4 @@
-# Tourism Website G20 summit Hacthon Gautaum buddhnagar University
+# Tourism Website G20 summit Hacthon Gautam Buddha  University
 # ALPHA NCR Tourism 
 
 
